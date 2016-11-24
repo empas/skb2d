@@ -49,7 +49,3 @@ let color = {
 };
 
 export default color;
-
-// re_rgb = /^rgb\(\d{1,3}\,\d{1,3}\,\d{1,3}\)$/
-// re_hsl = /^hsl\(\d{1,3}\,\d{1,3}%\,\d{1,3}%\)$/
-// re_hex = /(^#?[0-9a-f]{3}$)|(^#?[0-9a-f]{6}$)/
